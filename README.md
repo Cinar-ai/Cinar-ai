@@ -10,8 +10,7 @@
 
 <br/>
 
-### About
-- Istanbul based  
+### About  
 - Aerospace concepts: orbital mechanics, launch vehicles, interplanetary systems  
 - Software development focus
 
@@ -34,19 +33,17 @@ Environment: Linux • Kali Linux
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true" alt="Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cinar-ai&show_icons=true&theme=dracula&hide_border=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cinar-ai&theme=dracula&hide_border=true" alt="Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cinar-ai&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" width="48%" />
 </div>
 
 <br/>
 
-### Current Setup (VS Code on Kali – Dark Theme)
 
-Here are some clean, dark-themed VS Code examples that match Kali setups (ideal for long sessions):
 
 <grok-card data-id="a28b83" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
@@ -75,8 +72,8 @@ Some clean diagrams of orbits, Kepler's laws, and satellite paths (for inspirati
 <br/>
 
 ### Connect
-- Discord: (your tag)  
-- Email: (your email)  
-- LinkedIn / X: (links)
+- Discord: ()  
+- Email: ()  
+- LinkedIn / X: ()
 
 Open to space tech and development discussions.
