@@ -1,22 +1,20 @@
-## Hi there 👋
-
-<<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hey%2C%20I'm%20%C3%87%C4%B1nar;Computer%20Engineering%20Student;Aerospace%20%26%20Economics%20Enthusiast" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=800&color=00E0FF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C%20I'm%20%C3%87%C4%B1nar;Space%20%26%20Aerospace%20Enthusiast;Economics%20Reader%20%7C%20Full-Stack%20Developer;Building%20the%20future%2C%20one%20orbit%20at%20a%20time" alt="Dynamic Typing Animation" />
 </div>
 
-<h3 align="center">Computer Engineering • Economics Reader • Space & Aerospace Interest</h3>
+<h3 align="center">Economics Literature • Aerospace Concepts • Software Development</h3>
 
 <p align="center">
-  <em>Analyzing markets, simulating orbits, writing code.</em>
+  <em>Markets, orbits, and code.</em>
 </p>
 
 <br/>
 
 ### About
-- Computer Engineering student based in Istanbul  
-- Reading economics literature (classic theory to behavioral and crypto markets)  
-- Long-term interest in aerospace engineering: orbital mechanics, reusable launch systems, interplanetary transport  
-- Current focus: full-stack development and systems programming
+- Based in Istanbul  
+- Deep dives into economics (theory, behavioral, crypto markets)  
+- Aerospace focus: orbital mechanics, launch systems, interplanetary systems  
+- Active in full-stack and systems-level development
 
 <br/>
 
@@ -47,19 +45,20 @@ Environment: Linux • Kali Linux
 
 <br/>
 
-### Setup Snapshot
+### Current Setup
 
-VS Code on Kali Linux (current daily driver):
+VS Code on Kali Linux (daily driver):
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*zdUXlGlI1Rz1xBzYwE9ydQ.png" alt="VS Code on Kali" width="600" />
+Here are some clean, dark-themed examples of VS Code running on Kali:
+
+<grok-card data-id="0e4576" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
 
 <br/>
 
 ### Connect
 - Discord: (your tag)  
 - Email: (your email)  
-- LinkedIn / X / Other: (links)
+- LinkedIn / X: (links)
 
-Open to discussions on economics, space technology, software development.
-
-Made with code.--
+Open to conversations on economics, space tech, or development projects.
