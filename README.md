@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=900&color=00E0FF&center=true&vCenter=true&width=480&height=60&lines=Hey%2C%20I'm%20%C3%87%C4%B1nar;Aerospace%20Enthusiast;Orbital%20Mechanics%20%26%20Launch%20Systems" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=420&height=50&lines=Hey%2C%20I'm%20%C3%87%C4%B1nar;Aerospace%20Enthusiast;Orbital%20Mechanics" alt="Typing Animation" />
 </div>
 
-<h3 align="center">Aerospace Concepts • Orbital Mechanics • Software Development</h3>
+<h3 align="center">Aerospace • Orbital Mechanics • Software</h3>
 
 <p align="center">
-  <em>Orbits, systems, code.</em>
+  <em>Orbits and code.</em>
 </p>
 
 <br/>
 
 ### About
 - Istanbul based  
-- Aerospace focus: orbital mechanics, reusable launch vehicles, interplanetary systems  
-- Active in software development
+- Aerospace concepts: orbital mechanics, launch vehicles, interplanetary systems  
+- Software development focus
 
 <br/>
 
@@ -34,7 +34,7 @@ Environment: Linux • Kali Linux
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true" alt="Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true" alt="Streak" width="48%" />
 </div>
 
@@ -44,19 +44,39 @@ Environment: Linux • Kali Linux
 
 <br/>
 
-### Current Setup
+### Current Setup (VS Code on Kali – Dark Theme)
 
-VS Code on Kali (dark theme):
+Here are some clean, dark-themed VS Code examples that match Kali setups (ideal for long sessions):
 
-Buraya kendi screenshot'unu koyabilirsin, ya da benzer temiz örnekler şöyle duruyor (karanlık tema, uzun süre kod yazmaya uygun):
+<grok-card data-id="a28b83" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
-(Şimdi buraya 2-3 tane render edilmiş görsel koyabiliriz ama sen kendin yükle en iyisi – taşma olmasın diye boş bıraktım)
+
+
+<grok-card data-id="52d5c3" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+<br/>
+
+### Orbital Mechanics Visuals
+
+Some clean diagrams of orbits, Kepler's laws, and satellite paths (for inspiration):
+
+<grok-card data-id="2e7f39" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="b88890" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="c1bb1a" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
 
 <br/>
 
 ### Connect
-- Discord: (tag)  
-- Email: (email)  
+- Discord: (your tag)  
+- Email: (your email)  
 - LinkedIn / X: (links)
 
-Open to space tech / development discussions.
+Open to space tech and development discussions.
