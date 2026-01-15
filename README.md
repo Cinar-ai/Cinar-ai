@@ -1,19 +1,28 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=00D4FF&center=true&vCenter=true&width=420&height=55&lines=Hey%2C%20I'm%20%C3%87%C4%B1nar;Aerospace%20Enthusiast;Orbital%20Mechanics" alt="Typing Animation" />
+<div align="center" style="border: 2px solid; border-image: linear-gradient(to right, #00D4FF, #7C3AED, #FF3366) 1; border-radius: 16px; padding: 2em 1.5em; margin: 1.5em auto; max-width: 700px; background: rgba(30, 30, 46, 0.3); backdrop-filter: blur(4px);">
+  <h1 style="font-family: 'Segoe UI', system-ui, sans-serif; font-size: 3.2em; font-weight: 800; margin: 0; background: linear-gradient(90deg, #00D4FF, #A5B4FC, #7C3AED); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Çınar
+  </h1>
+  <h2 style="font-family: 'Segoe UI', system-ui; color: #CBD5E1; font-weight: 400; margin: 0.6em 0 0.3em;">
+    Aerospace Enthusiast
+  </h2>
+  <h3 style="color: #94A3B8; font-weight: 300; margin: 0.4em 0 0;">
+    Orbital Mechanics • Software Development
+  </h3>
 </div>
 
-<h3 align="center">Aerospace Engineering Concepts • Orbital Mechanics • Software Development</h3>
-
-<p align="center">
-  <em>Exploring orbits through theory and code.</em>
+<p align="center" style="color: #94A3B8; font-style: italic; font-size: 1.1em; max-width: 600px; margin: 1.5em auto;">
+  Exploring orbital dynamics through theory, simulation, and code.
 </p>
 
 <br/>
 
 ### About
-- Istanbul-based developer with a strong focus on aerospace engineering principles  
-- Key interests: orbital mechanics, launch vehicle dynamics, interplanetary mission design  
-- Active in software development for simulation, analysis, and tooling
+Istanbul-based developer focused on aerospace engineering fundamentals and reliable software solutions.  
+Primary interests include:
+- Orbital mechanics and trajectory analysis
+- Launch vehicle dynamics
+- Interplanetary mission architecture
+- Simulation and tooling development
 
 <br/>
 
@@ -46,46 +55,55 @@
 
 ### Development Environment
 
-VS Code running on Kali Linux (dark theme optimized for extended sessions):
+VS Code on Kali Linux (dark theme optimized for extended development sessions):
 
-Here are some professional dark-themed VS Code setups that align well with Kali Linux environments:
+Here are some professional, dark-themed VS Code setups that pair perfectly with Kali Linux:
 
-<grok-card data-id="32ae57" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="e94246" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 
-<grok-card data-id="64367e" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="ee4815" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="fabdf4" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 <br/>
 
 ### Orbital Mechanics References
 
-Clean vector illustrations of Kepler's laws, elliptical orbits, and satellite trajectories:
+Vector diagrams illustrating Kepler's laws, elliptical orbits, and satellite trajectories:
 
-Here are high-quality diagrams for orbital mechanics concepts:
+High-quality, clean illustrations for orbital concepts:
 
-<grok-card data-id="1a1115" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="48c8c1" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="9b2d27" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 
-<grok-card data-id="3ed5e1" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="df8c23" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
-Aerospace visualization inspiration (orbital paths and launch concepts):
 
-<grok-card data-id="352d2a" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="e0172b" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+Aerospace trajectory visualizations (orbital paths and launch dynamics):
+
+<grok-card data-id="1e7cd1" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="d356c9" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 <br/>
 
 ### Connect
-- **Discord** → (your tag)  
-- **Email** → (your email)  
-- **LinkedIn / X** → (your links)  
+- **Discord** → (your tag here)  
+- **Email** → (your email address)  
+- **LinkedIn** → (your LinkedIn profile)  
+- **X** → (your X handle)  
 
-Open to discussions on orbital simulations, space systems, or collaborative development projects.
+Open to collaborations or discussions on orbital simulations, space systems engineering, or related software projects.
