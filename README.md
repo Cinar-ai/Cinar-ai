@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=700&color=00E0FF&center=true&vCenter=true&width=650&height=80&lines=Hey%2C%20I'm%20%C3%87%C4%B1nar;Aerospace%20Enthusiast;Orbital%20Mechanics%20%7C%20Launch%20Systems;Dreaming%20of%20interplanetary%20travel" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=900&color=00E0FF&center=true&vCenter=true&width=480&height=60&lines=Hey%2C%20I'm%20%C3%87%C4%B1nar;Aerospace%20Enthusiast;Orbital%20Mechanics%20%26%20Launch%20Systems" alt="Dynamic Typing" />
 </div>
 
 <h3 align="center">Aerospace Concepts • Orbital Mechanics • Software Development</h3>
 
 <p align="center">
-  <em>Orbits, systems, and code.</em>
+  <em>Orbits, systems, code.</em>
 </p>
 
 <br/>
 
 ### About
-- Based in Istanbul  
-- Focused on aerospace engineering concepts: orbital mechanics, reusable launch vehicles, interplanetary transport systems  
-- Active in software development with emphasis on reliable, performant code
+- Istanbul based  
+- Aerospace focus: orbital mechanics, reusable launch vehicles, interplanetary systems  
+- Active in software development
 
 <br/>
 
@@ -24,9 +24,9 @@
 </div>
 
 **Breakdown**  
-Frontend: HTML • CSS • JavaScript • React • Bootstrap  
+Frontend: HTML • CSS • JS • React • Bootstrap  
 Backend/Scripting: Node.js • Python  
-Tools & Workflow: Git • npm • Prettier • GitHub Actions • VS Code  
+Tools: Git • npm • Prettier • GitHub Actions • VS Code  
 Environment: Linux • Kali Linux
 
 <br/>
@@ -34,38 +34,29 @@ Environment: Linux • Kali Linux
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true" alt="Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" width="48%" />
 </div>
 
 <br/>
 
 ### Current Setup
 
-VS Code on Kali Linux (daily driver – dark theme for long sessions):
+VS Code on Kali (dark theme):
 
-Here are some clean, dark-themed VS Code examples running on Kali-like setups:
+Buraya kendi screenshot'unu koyabilirsin, ya da benzer temiz örnekler şöyle duruyor (karanlık tema, uzun süre kod yazmaya uygun):
 
-<grok-card data-id="9e48ee" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="99a552" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="d88864" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
+(Şimdi buraya 2-3 tane render edilmiş görsel koyabiliriz ama sen kendin yükle en iyisi – taşma olmasın diye boş bıraktım)
 
 <br/>
 
 ### Connect
-- Discord: (your tag)  
-- Email: (your email)  
+- Discord: (tag)  
+- Email: (email)  
 - LinkedIn / X: (links)
 
-Open to discussions on space technology, orbital simulations, or development projects.
+Open to space tech / development discussions.
