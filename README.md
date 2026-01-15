@@ -1,28 +1,19 @@
-<div align="center" style="border: 2px solid; border-image: linear-gradient(to right, #00D4FF, #7C3AED, #FF3366) 1; border-radius: 16px; padding: 2em 1.5em; margin: 2em auto; max-width: 720px; background: rgba(30, 30, 46, 0.25);">
-  <h1 style="font-family: 'Segoe UI', system-ui, sans-serif; font-size: 3.4em; font-weight: 800; margin: 0; background: linear-gradient(90deg, #00D4FF, #A5B4FC, #7C3AED); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Çınar
-  </h1>
-  <h2 style="font-family: 'Segoe UI', system-ui; color: #CBD5E1; font-weight: 400; margin: 0.6em 0 0.2em;">
-    Aerospace Enthusiast
-  </h2>
-  <h3 style="color: #94A3B8; font-weight: 300; margin: 0.3em 0 0;">
-    Orbital Mechanics • Software Development
-  </h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=00D4FF&center=true&vCenter=true&width=420&height=55&lines=Hey%2C%20I'm%20%C3%87%C4%B1nar;Aerospace%20Enthusiast;Orbital%20Mechanics" alt="Typing Animation" />
 </div>
 
-<p align="center" style="color: #94A3B8; font-style: italic; font-size: 1.15em; max-width: 620px; margin: 1.8em auto;">
-  Exploring orbital dynamics through theory, simulation, and code.
+<h3 align="center">Aerospace Engineering Concepts • Orbital Mechanics • Software Development</h3>
+
+<p align="center">
+  <em>Exploring orbits through theory and code.</em>
 </p>
 
 <br/>
 
 ### About
-Istanbul-based developer with a focus on aerospace engineering principles and software solutions.  
-Primary areas of interest:
-- Orbital mechanics and trajectory optimization
-- Launch vehicle dynamics
-- Interplanetary mission design
-- Simulation tools and reliable codebases
+- Anon-based developer with a strong focus on aerospace engineering principles  
+- Key interests: orbital mechanics, launch vehicle dynamics, interplanetary mission design  
+- Active in software development for simulation, analysis, and tooling
 
 <br/>
 
@@ -53,50 +44,42 @@ Primary areas of interest:
 
 <br/>
 
-### Development Environment
-
-VS Code on Kali Linux (dark theme for focused, long-duration sessions):
-
-Here are some clean, professional dark-themed VS Code examples that align well with Kali environments:
-
-<grok-card data-id="0c6496" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="32ae57" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
-Here are additional high-quality dark VS Code setups on Kali-like backgrounds:
 
-<grok-card data-id="39a139" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="64367e" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 <br/>
 
 ### Orbital Mechanics References
 
-Clean vector diagrams of Kepler's laws, elliptical orbits, and satellite trajectories:
+Clean vector illustrations of Kepler's laws, elliptical orbits, and satellite trajectories:
 
-Here are precise illustrations of orbital concepts:
+Here are high-quality diagrams for orbital mechanics concepts:
 
-<grok-card data-id="9e2b6d" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="ad2b44" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="1a1115" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 
-<grok-card data-id="8c1b3f" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="48c8c1" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
-Additional trajectory and orbital path visualizations:
 
-<grok-card data-id="082377" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="3ed5e1" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+Aerospace visualization inspiration (orbital paths and launch concepts):
+
+<grok-card data-id="352d2a" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 <br/>
 
 ### Connect
-- **Discord** → (your tag here)  
-- **Email** → (your email address)  
-- **LinkedIn** → (your LinkedIn profile)  
-- **X** → (your X handle)  
+- **Discord** → ()  
+- **Email** → ()  
+- **LinkedIn / X** → ()  
 
-Open to discussions or collaborations on orbital simulations, space systems, or software development projects.
+Open to discussions on orbital simulations, space systems, or collaborative development projects.
