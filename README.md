@@ -1,20 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=800&color=00E0FF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C%20I'm%20%C3%87%C4%B1nar;Space%20%26%20Aerospace%20Enthusiast;Economics%20Reader%20%7C%20Full-Stack%20Developer;Building%20the%20future%2C%20one%20orbit%20at%20a%20time" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=700&color=00E0FF&center=true&vCenter=true&width=650&height=80&lines=Hey%2C%20I'm%20%C3%87%C4%B1nar;Aerospace%20Enthusiast;Orbital%20Mechanics%20%7C%20Launch%20Systems;Dreaming%20of%20interplanetary%20travel" alt="Dynamic Typing Animation" />
 </div>
 
-<h3 align="center">Economics Literature • Aerospace Concepts • Software Development</h3>
+<h3 align="center">Aerospace Concepts • Orbital Mechanics • Software Development</h3>
 
 <p align="center">
-  <em>Markets, orbits, and code.</em>
+  <em>Orbits, systems, and code.</em>
 </p>
 
 <br/>
 
 ### About
 - Based in Istanbul  
-- Deep dives into economics (theory, behavioral, crypto markets)  
-- Aerospace focus: orbital mechanics, launch systems, interplanetary systems  
-- Active in full-stack and systems-level development
+- Focused on aerospace engineering concepts: orbital mechanics, reusable launch vehicles, interplanetary transport systems  
+- Active in software development with emphasis on reliable, performant code
 
 <br/>
 
@@ -47,11 +46,19 @@ Environment: Linux • Kali Linux
 
 ### Current Setup
 
-VS Code on Kali Linux (daily driver):
+VS Code on Kali Linux (daily driver – dark theme for long sessions):
 
-Here are some clean, dark-themed examples of VS Code running on Kali:
+Here are some clean, dark-themed VS Code examples running on Kali-like setups:
 
-<grok-card data-id="0e4576" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<grok-card data-id="9e48ee" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="99a552" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+
+
+
+<grok-card data-id="d88864" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
 <br/>
@@ -61,4 +68,4 @@ Here are some clean, dark-themed examples of VS Code running on Kali:
 - Email: (your email)  
 - LinkedIn / X: (links)
 
-Open to conversations on economics, space tech, or development projects.
+Open to discussions on space technology, orbital simulations, or development projects.
