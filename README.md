@@ -20,7 +20,9 @@
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,c++,nodejs,python,git,npm,githubactions,prettier,vscode,linux,kali&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,c++,nodejs,
+    python,git,npm,githubactions,prettier,vscode,
+    linux,kali&perline=7" alt="Tech Stack" />
 </div>
 
 **Breakdown**  
