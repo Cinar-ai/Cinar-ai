@@ -1,85 +1,53 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=00D4FF&center=true&vCenter=true&width=420&height=55&lines=Hey%2C%20I'm%20%C3%87%C4%B1nar;Aerospace%20Enthusiast;Orbital%20Mechanics" alt="Typing Animation" />
-</div>
-
-<h3 align="center">Aerospace Engineering Concepts • Orbital Mechanics • Software Development</h3>
+# 🌌 Hi, I'm Cinar-ai  
 
 <p align="center">
-  <em>Exploring orbits through theory and code.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Meta+Developer;AI+%26+Full-Stack+Engineer;Building+Future+Technologies;Exploring+The+Universe+With+Code" />
 </p>
 
-<br/>
+---
 
-### About
-- Anon-based developer with a strong focus on aerospace engineering principles  
-- Key interests: orbital mechanics, launch vehicle dynamics, interplanetary mission design  
-- Active in software development for simulation, analysis, and tooling
+## 🕳 Black Hole Interface
 
-<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="420px"/>
+</p>
 
-### Tech Stack
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,c++,nodejs,python,git,npm,githubactions,prettier,vscode,linux,kali&perline=7" alt="Tech Stack" />
-</div>
+## 🚀 About Me  
 
-**Breakdown**  
-- **Frontend** — HTML • CSS • JavaScript • React • Bootstrap  
-- **Backend / Scripting** — Node.js • Python  
-- **Tools & Workflow** — Git • npm • Prettier • GitHub Actions • VS Code  
-- **Environment** — Linux • Kali Linux
+```bash
+> Username: Cinar-ai
+> Role: Meta Developer | AI Engineer
+> Focus: Artificial Intelligence & Scalable Systems
+> Vision: Building technology for the future
+```
 
-<br/>
+---
 
-### GitHub Activity
+##  Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cinar-ai&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cinar-ai&theme=dracula&hide_border=true" alt="Contribution Streak" width="48%" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,react,django,nodejs,linux,git" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cinar-ai&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</div>
+---
 
-<br/>
+##  GitHub Stats
 
-<grok-card data-id="32ae57" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cinar-ai&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cinar-ai&layout=compact&theme=midnight-purple&hide_border=true"/>
+</p>
 
+---
 
+##  Contribution Snake
 
-<grok-card data-id="64367e" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cinar-ai/Cinar-ai/output/github-contribution-grid-snake.svg" />
+</p>
 
+---
 
-<br/>
-
-### Orbital Mechanics References
-
-Clean vector illustrations of Kepler's laws, elliptical orbits, and satellite trajectories:
-
-Here are high-quality diagrams for orbital mechanics concepts:
-
-<grok-card data-id="1a1115" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="48c8c1" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-
-<grok-card data-id="3ed5e1" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-Aerospace visualization inspiration (orbital paths and launch concepts):
-
-<grok-card data-id="352d2a" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
-
-
-<br/>
-
-### Connect
-- **Discord** → ()  
-- **Email** → ()  
-- **LinkedIn / X** → ()  
-
-Open to discussions on orbital simulations, space systems, or collaborative development projects.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:240046&height=120&section=footer"/>
